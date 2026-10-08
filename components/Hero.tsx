@@ -52,8 +52,7 @@ export function Hero() {
             transition={{ duration: 0.6, delay: 0.16, ease }}
             className="mt-6 max-w-[48ch] text-lg leading-relaxed text-ink-soft dark:text-white/70"
           >
-            KawanuaTech membangun website dan aplikasi yang rapi, cepat, dan
-            gampang diurus. Tanpa jargon, bisa ketemu langsung.
+             Gak usah pusing mikirin koding! Kawanua Tech siap bangun website dan aplikasi yang pas buat kebutuhan bisnismu.
           </motion.p>
 
           <motion.div
