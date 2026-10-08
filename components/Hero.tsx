@@ -30,7 +30,7 @@ export function Hero() {
             className="inline-flex items-center gap-1.5 rounded-full border border-ink/10 bg-surface/70 px-3.5 py-1.5 text-sm font-medium text-ink-soft dark:border-white/10 dark:bg-white/5 dark:text-white/70"
           >
             <MapPin weight="fill" className="size-4 text-accent" />
-            Tim lokal dari Manado, Sulawesi Utara
+            Manado, Sulawesi Utara
           </motion.p>
 
           <motion.h1
