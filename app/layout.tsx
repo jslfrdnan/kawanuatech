@@ -18,7 +18,7 @@ const body = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
-  title: `${site.brand} — Jasa Pembuatan Website & Aplikasi di Manado`,
+  title: `${site.brand} - Jasa Pembuatan Website & Aplikasi di Manado`,
   description:
     "Tim developer dari Manado, Sulawesi Utara. Kami bangun website company profile, toko online, aplikasi web, dan aplikasi mobile untuk usaha Anda.",
   openGraph: {
